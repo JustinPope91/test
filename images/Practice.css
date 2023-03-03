@@ -1,0 +1,18 @@
+.image-container{
+    margin: auto;
+    width: 500px;
+    height: 125px;
+    display: flex;
+}
+.image-container img{
+    width: 25%;
+    height: 70%;
+    clip-path: circle();
+}
+.div{
+    display: flex;
+}
+.h2{
+    color: teal;
+
+}
